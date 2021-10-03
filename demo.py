@@ -1,6 +1,3 @@
-import yagmail
-import main
-
 def send_mail():
     main.export()
     from_ = 'testguy191@gmail.com'
