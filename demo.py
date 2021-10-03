@@ -5,7 +5,7 @@ def send_mail():
     main.export()
     from_ = 'testguy191@gmail.com'
     password = 'test0987test'
-    receiver = 'cmind'
+    receiver = 'cmind488@gmail.com'
     body = 'This is a python mail'
     filename = 'ds.xls'
 
