@@ -22,4 +22,4 @@ def print_df():
 
 # export the data into the excel sheet
 def export():
-    df.to_excel('ds.xls')
+    df.to_excel('ds.xls', index=False)
